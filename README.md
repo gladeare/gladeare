@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gladeare, or Fabian Röthgen. 
+- 👀 I’m interested in game development, especially VR, AR and new technologies.
+- 🌱 I’m currently learning a wide range of languages and tools, including those of neighbouring professions.
+- 💞️ I’m looking to work on projects trying to break the boundries of game development, creating exciting new callenges to work on!
+- 📫 How to reach me: "gladeare@googlemail.com" OR "fabian.pc@web.de"
